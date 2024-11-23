@@ -1,4 +1,4 @@
-# Data-Exploration
+# Ex-1 Data-Exploration
 ## AIM:
 To import, clean, explore, and visualize a dataset using Python and its libraries, demonstrating data handling, missing value treatment, and generating basic insights using statistical measures and visualizations.
 
